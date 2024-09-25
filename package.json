@@ -1,0 +1,15 @@
+{
+  "name": "navigateur",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "darkvox",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}

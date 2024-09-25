@@ -1,0 +1,9 @@
+body {
+    color: #333;
+}
+
+.navBar {
+    display: block;
+    color: #333;
+    border: black;
+}
